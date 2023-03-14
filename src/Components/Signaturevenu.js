@@ -34,7 +34,7 @@ class Signaturevenu extends Component{
                     
                 </div>
                 <div className="flex_row">
-                    <div class="rides-text">
+                    <div class="rides-text"> 
                         <h3>DESIGN WINNING</h3>
                         <h2>TRAINING & WORKSHOPS</h2>
                         <p>Our contemporary meeting spaces are ideal for high-profile meetings and events, where partners gather to inspire, exchange ideas, and reach beyond their goals.</p>
