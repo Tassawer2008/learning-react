@@ -20,7 +20,7 @@ function Conference(){
                 {/* Section 2 */}
                 <section class="signature_venu">
                     <div className='row'>
-                        <Signaturevenu />
+                        <Signaturevenu title="SIGNATURE VENUES"/>
                     </div>
                 </section>
 
